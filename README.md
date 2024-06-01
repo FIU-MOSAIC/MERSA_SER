@@ -4,6 +4,8 @@
 
 The **MERSA** dataset comprises multimodal data collected from 150 participants between October 2022 and September 2023. It is designed to facilitate research in emotion recognition and sentiment analysis across various modalities.
 
+Here, 10% of the dataset is available. To request the full dataset, please complete and submit the form provided at (https://forms.gle/vXTq1p64wnKLoNTJ6).
+
 ## Data Collection
 Participants were required to participate in the study for at least 14 days. During this period, they completed various surveys, including the daily Emotional State Survey (ESS), and wore a wrist-worn Fitbit Charge 5 tracker to collect physiological data.
 

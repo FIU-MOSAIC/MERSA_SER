@@ -1,0 +1,2 @@
+reading_id,reading_time,wire_id,result_classification,heart_rate,heart_rate_alert,firmware_version,device_app_version,hardware_version,waveform_samples
+7e0279c0-5713-11ed-8080-808080808080,Fri Oct 28 22:54:34 UTC 2022,e100638c1a39,UNREADABLE,0,NONE,20001.171.50,2.10.0,Charge 5,null

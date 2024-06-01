@@ -1,0 +1,2 @@
+reading_id,reading_time,wire_id,result_classification,heart_rate,heart_rate_alert,firmware_version,device_app_version,hardware_version,waveform_samples
+13814000-1dd2-11b2-8080-808080808080,Thu Jan 01 00:00:00 UTC 1970,e100638c1a39,NSR,0,NONE,20001.171.50,2.10.0,Charge 5,null

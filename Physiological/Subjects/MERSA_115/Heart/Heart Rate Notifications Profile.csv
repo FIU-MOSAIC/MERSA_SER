@@ -1,0 +1,2 @@
+threshold_high_custom,threshold_low_custom,use_custom_threshold_high,use_custom_threshold_low,alert_high_on,alert_low_on
+0,0,false,false,false,false
